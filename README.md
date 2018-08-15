@@ -2,6 +2,6 @@
 
 Using the Nilakantha method and the Gregory-Leibniz Series to calculate pi.
 
-Use multiple threads.
+Used multiple threads and a single thread.
 
-Compare the speed / convergence of both methods.
+Compared the speed / convergence of both methods.
